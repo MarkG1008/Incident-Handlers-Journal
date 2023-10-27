@@ -74,8 +74,8 @@ This incident occurred in two phases:
   <tr>
    <td><strong>Date:</strong> August 23, 2023
    </td>
-   <td colspan="3" ><strong>Entry: \
-</strong>#2
+   <td colspan="3" ><strong>Entry: 
+</strong> <p></p> #2
    </td>
   </tr>
   <tr>
